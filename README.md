@@ -1,29 +1,36 @@
-# wisata-nusantara
+# Wisata Nusantara
 
-This template should help get you started developing with Vue 3 in Vite.
+jawaban modul frontend lks provinsi makassar tahun 2024
 
-## Recommended IDE Setup
+### Penilaian
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- Dashboard User
+- Event, Event Detail, Event Register
+- Admin Dashboard
+- Responsif Css
 
-## Customize configuration
+## Setup & Configuration
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+1. Clone Repository URL
 
-## Project Setup
+```bash
+git clone https://github.com/al-kawsar/wisata-nusantara.git
+```
 
-```sh
+2. CD
+
+```bash
+cd wisata-nusantara
+```
+
+3. Install Dependencies
+
+```bash
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+4. Run Server Development
 
-```sh
+```bash
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
 ```
