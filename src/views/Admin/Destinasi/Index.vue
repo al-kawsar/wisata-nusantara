@@ -1,26 +1,34 @@
 <script setup>
-import { ref } from 'vue'
-import DataTable from "@/components/DataTable.vue"
+// import "@/assets/css/admin.css";
+
+import { ref } from "vue";
+import DataTable from "@/components/DataTable.vue";
 
 const data = ref([]);
 
-const events = [{
-    id: 1,
-    name: "Event 1",
-    dateStart: "2024",
-    dateEnd: "2024",
-    price: "100000",
-    user: "Raihan",
-    description: "Event ini adalah suatu event yang dimana begitu dan begini"
-}];
+const events = [
+    {
+        id: 1,
+        name: "Event 1",
+        dateStart: "2024",
+        dateEnd: "2024",
+        price: "100000",
+        user: "Raihan",
+        description: "Event ini adalah suatu event yang dimana begitu dan begini",
+    },
+];
 
 const table = {
-    title: 'Destinasi',
+    title: "Destinasi",
     headers: [
-        'Nama Event', 'Tanggal Mulai', 'Tanggal Berakhir', 'Harga', 'User', 'Deskripsi'
+        "Nama Event",
+        "Tanggal Mulai",
+        "Tanggal Berakhir",
+        "Harga",
+        "User",
+        "Deskripsi",
     ],
 };
-
 </script>
 
 <template>
@@ -61,7 +69,5 @@ const table = {
     </DataTable>
 </template>
 <style scoped>
-@import url("/src/assets/css/material-dashboard.css");
-@import url("/src/assets/css/nucleo-svg.css");
-@import url("/src/assets/css/nucleo-icons.css");
+@import url("@/assets/css/admin.css");
 </style>

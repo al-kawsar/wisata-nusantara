@@ -139,7 +139,5 @@ const data = ref({
     </div>
 </template>
 <style scoped>
-@import url("/src/assets/css/material-dashboard.css");
-@import url("/src/assets/css/nucleo-svg.css");
-@import url("/src/assets/css/nucleo-icons.css");
+@import url("@/assets/css/admin.css");
 </style>
