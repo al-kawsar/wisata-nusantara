@@ -50,25 +50,25 @@
         <div class="container py-5">
             <div class="row">
                 <div class="col-md-3">
-                    <div class="card-galeri">
+                    <div class="card-galeri py-3">
                         <img src="https://newsdesa.files.wordpress.com/2015/04/6165e-raja-ampat-islands-22062-1366x768.jpg"
                             alt="" class="rounded w-100 object-fit-cover" height="200">
                     </div>
                 </div>
                 <div class="col-md-3">
-                    <div class="card-galeri">
+                    <div class="card-galeri py-3">
                         <img src="https://awsimages.detik.net.id/community/media/visual/2021/12/06/desa-wisata-wae-rebo-12_169.jpeg?w=620"
                             alt="" class="rounded w-100 object-fit-cover" height="200">
                     </div>
                 </div>
                 <div class="col-md-3">
-                    <div class="card-galeri">
+                    <div class="card-galeri py-3">
                         <img src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/wisata-nusantara-mempawah-pontianak-johan-k.jpg"
                             alt="" class="rounded w-100 object-fit-cover" height="200">
                     </div>
                 </div>
                 <div class="col-md-3">
-                    <div class="card-galeri">
+                    <div class="card-galeri py-3">
                         <img src="https://rakyatjambi.co/wp-content/uploads/2017/02/wayag.jpg" alt=""
                             class="rounded w-100 object-fit-cover" height="200">
                     </div>
