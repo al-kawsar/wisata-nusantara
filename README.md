@@ -1,7 +1,5 @@
 # Wisata Nusantara
 
-jawaban modul frontend lks provinsi makassar tahun 2024
-
 ### Penilaian
 
 - Dashboard User
